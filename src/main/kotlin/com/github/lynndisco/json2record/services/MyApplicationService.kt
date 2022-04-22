@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.lynndisco.json2record.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.lynndisco.json2record.MyBundle
 
 class MyApplicationService {
 
